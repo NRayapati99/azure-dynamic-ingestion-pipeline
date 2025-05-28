@@ -1,0 +1,3 @@
+OrderID,Customer,OrderDate,TotalAmount
+101,John Doe,2024-01-10,250
+102,Jane Smith,2024-01-11,300
